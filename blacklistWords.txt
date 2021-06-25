@@ -1,0 +1,4 @@
+research
+student
+event
+core

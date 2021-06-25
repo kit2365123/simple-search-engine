@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3eb28ca3-1c64-48bd-996c-c8337c66b162" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iztMyf0V05VmpbpchIQEs9nY4h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.CollectWords">
+    <configuration name="CollectWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectWords" />
+      <module name="wwwProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMapFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashMapFunction" />
+      <module name="wwwProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="wwwProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CollectWords" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.HashMapFunction" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3eb28ca3-1c64-48bd-996c-c8337c66b162" name="Default Changelist" comment="" />
+      <created>1602922203697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602922203697</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="730" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603272998033">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="730" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1080.-232.1080.1880@0.0.1920.1040" timestamp="1603272998033" />
+    <state x="529" y="319" key="#com.intellij.ide.util.MemberChooser" timestamp="1603365674565">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-842" y="227" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1080.-232.864.1496@-1080.-232.864.1496" timestamp="1603363042913" />
+    <state x="529" y="319" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1080.-232.864.1496@0.0.1920.1040" timestamp="1603365674565" />
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1603170917584">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040/-1080.-232.1080.1880@0.0.1920.1040" timestamp="1603170917584" />
+    <state width="1877" height="230" key="GridCell.Tab.0.bottom" timestamp="1603986841263">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="230" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1080.-232.1080.1880@0.0.1920.1040" timestamp="1603986841263" />
+    <state width="821" height="336" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1080.-232.864.1496@-1080.-232.864.1496" timestamp="1603364571158" />
+    <state width="1877" height="99" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1080.-232.864.1496@0.0.1920.1040" timestamp="1603373223476" />
+    <state width="1877" height="230" key="GridCell.Tab.0.center" timestamp="1603986841262">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="230" key="GridCell.Tab.0.center/0.0.1920.1040/-1080.-232.1080.1880@0.0.1920.1040" timestamp="1603986841262" />
+    <state width="821" height="336" key="GridCell.Tab.0.center/0.0.1920.1040/-1080.-232.864.1496@-1080.-232.864.1496" timestamp="1603364571158" />
+    <state width="1877" height="99" key="GridCell.Tab.0.center/0.0.1920.1040/-1080.-232.864.1496@0.0.1920.1040" timestamp="1603373223476" />
+    <state width="1877" height="230" key="GridCell.Tab.0.left" timestamp="1603986841262">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="230" key="GridCell.Tab.0.left/0.0.1920.1040/-1080.-232.1080.1880@0.0.1920.1040" timestamp="1603986841262" />
+    <state width="821" height="336" key="GridCell.Tab.0.left/0.0.1920.1040/-1080.-232.864.1496@-1080.-232.864.1496" timestamp="1603364571158" />
+    <state width="1877" height="99" key="GridCell.Tab.0.left/0.0.1920.1040/-1080.-232.864.1496@0.0.1920.1040" timestamp="1603373223476" />
+    <state width="1877" height="230" key="GridCell.Tab.0.right" timestamp="1603986841262">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="230" key="GridCell.Tab.0.right/0.0.1920.1040/-1080.-232.1080.1880@0.0.1920.1040" timestamp="1603986841262" />
+    <state width="821" height="336" key="GridCell.Tab.0.right/0.0.1920.1040/-1080.-232.864.1496@-1080.-232.864.1496" timestamp="1603364571158" />
+    <state width="1877" height="99" key="GridCell.Tab.0.right/0.0.1920.1040/-1080.-232.864.1496@0.0.1920.1040" timestamp="1603373223476" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1603955482553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1080.-232.1080.1880@0.0.1920.1040" timestamp="1603955482553" />
+    <state width="821" height="530" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1080.-232.864.1496@-1080.-232.864.1496" timestamp="1603359988045" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1603955482553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040/-1080.-232.1080.1880@0.0.1920.1040" timestamp="1603955482553" />
+    <state width="821" height="530" key="GridCell.Tab.1.center/0.0.1920.1040/-1080.-232.864.1496@-1080.-232.864.1496" timestamp="1603359988045" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1603955482553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040/-1080.-232.1080.1880@0.0.1920.1040" timestamp="1603955482553" />
+    <state width="821" height="530" key="GridCell.Tab.1.left/0.0.1920.1040/-1080.-232.864.1496@-1080.-232.864.1496" timestamp="1603359988045" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1603955482553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040/-1080.-232.1080.1880@0.0.1920.1040" timestamp="1603955482553" />
+    <state width="821" height="530" key="GridCell.Tab.1.right/0.0.1920.1040/-1080.-232.864.1496@-1080.-232.864.1496" timestamp="1603359988045" />
+    <state x="342" y="141" key="new project wizard" timestamp="1603170918877">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="141" key="new project wizard/0.0.1920.1040/-1080.-232.1080.1880@0.0.1920.1040" timestamp="1603170918877" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1603530506274">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-1080.-232.1080.1880@0.0.1920.1040" timestamp="1603530506274" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603536287379">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1080.-232.1080.1880@0.0.1920.1040" timestamp="1603536287379" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1080.-232.864.1496@0.0.1920.1040" timestamp="1603368431321" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CollectWords.java</url>
+          <line>231</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
